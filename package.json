@@ -1,0 +1,13 @@
+{
+  "name": "t-custom-video-player",
+  "version": "1.0.0",
+  "description": "Custom video player using the HTML5 video element and it's JavaScript API with a custom design",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
